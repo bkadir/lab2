@@ -23,3 +23,5 @@ For future research, I could use more specific keywords to refine my search and 
 ## What I Learned
 
 Through this investigation, I discovered that opinions about AI vary widely. While some people worry about job losses, others see AI as a means to enhance quality of life. It's important to consider diverse perspectives and engage in meaningful dialogue about the implications of AI for society.
+
+[assets](the csv files for this lab can be found here)
