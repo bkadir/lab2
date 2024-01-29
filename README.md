@@ -24,4 +24,4 @@ For future research, I could use more specific keywords to refine my search and 
 
 Through this investigation, I discovered that opinions about AI vary widely. While some people worry about job losses, others see AI as a means to enhance quality of life. It's important to consider diverse perspectives and engage in meaningful dialogue about the implications of AI for society.
 
-[https://github.com/bkadir/lab2/tree/541f6419bdec5f19281689c325d90fb4caf9a766/assets](the csv files for this lab can be found here)
+[the csv files can be found here](https://github.com/bkadir/lab2/tree/541f6419bdec5f19281689c325d90fb4caf9a766/assets)
